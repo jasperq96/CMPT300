@@ -1,0 +1,2 @@
+#Allow our new systerm call file to be compiled by the kernel
+obj-y := array_stats.o #process_ancestors.o # <-- include this when we finish the file
